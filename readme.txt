@@ -5,4 +5,4 @@ Git tracks changes of files.
 the first time
 the second time
 the third time
-test
+Creating a new branch is quick AND simple.
