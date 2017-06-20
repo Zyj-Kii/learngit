@@ -4,4 +4,3 @@ Git has a mutable index called stage.
 Git tracks changes of files.
 the first time
 the second time
-recall
