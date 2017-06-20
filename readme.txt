@@ -8,3 +8,5 @@ the third time
 Creating a new branch is quick and simple.
 deb
 stash1
+save this status
+fix bug1
